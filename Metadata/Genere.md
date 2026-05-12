@@ -1,0 +1,40 @@
+-seen live
+-favorites
+-fixme
+-owned
+-2010s
+-2020s
+-2000s
+-1990s
+-1980s
+-1970s
+-1960s
+-All
+-K.I.D
+-Kyle
+-Us
+-female vocalist
+-male vocalist
+-acoustic
+-live
+-cover
+-unknown
+-british
+-american
+-swedish
+-norwegian
+-finnish
+-4/4
+-favorite
+-best of
+-classic
+-retro
+-vinyl
+-cd
+-ep
+-single
+-compilation
+-remaster
+-remastered
+-demo
+-Brazilian Music
