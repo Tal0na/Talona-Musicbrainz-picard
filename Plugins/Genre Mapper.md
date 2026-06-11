@@ -99,3 +99,7 @@ Brazilian Hip Hop=Hip Hop
 Alt. Rock=Alternative Rock
 Psytrance=Psy-Trance
 Boombap=Boom Bap
+Alt Z=Alt Z
+Alt-Pop=Alternative Pop
+R B=R&B
+

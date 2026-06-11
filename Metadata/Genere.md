@@ -94,12 +94,7 @@
 -Unplugged
 -Drag Queen
 -Touhou
--Edm
--R B
--Donk
--Frat Rap
 -Provo
--Alt. Rock
 -Youtuber
 -Dancefloor Drum And Bass
 -French
@@ -113,7 +108,6 @@
 -Sunny Sunshine [00:53.05] We Stil...
 -Troi Irons
 -Animal On Cover
--Boombap
 -Adult Contemporary Music
 -Romance
 -Composer
@@ -165,7 +159,6 @@
 -France
 -Video Game Music
 -Video Game
--Rnb
 -Post-Genre
 -Updated Release
 -Long Title
@@ -180,8 +173,5 @@
 -Dirty Rap
 -Dirty South
 -Oi
--Alt Z
--Alt-Pop
--Alt-Rock
 -Future Riddim
 -Jungle Terror
