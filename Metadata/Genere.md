@@ -1,7 +1,12 @@
 -seen live
 -favorites
+-favorite
 -fixme
 -owned
+-All
+-K.I.D
+-Kyle
+-Us
 -2010s
 -2020s
 -2000s
@@ -9,13 +14,8 @@
 -1980s
 -1970s
 -1960s
--All
--K.I.D
--Kyle
--Us
 -female vocalist
 -male vocalist
--acoustic
 -live
 -cover
 -unknown
@@ -25,7 +25,6 @@
 -norwegian
 -finnish
 -4/4
--favorite
 -best of
 -classic
 -retro
@@ -38,3 +37,151 @@
 -remastered
 -demo
 -Brazilian Music
+-Canadian
+-Russia
+-Canon
+-Chart Hits
+-2008 Universal Fire Victim
+-Melodiposipassiongroove
+-Mashup
+-Ciggarettes
+-Self-Titled
+-Religious
+-Comedy
+-Bakemonogatari
+-German
+-Piano Piece In One Movement
+-Modern
+-Electronique
+-Vocal
+-English
+-Japanese
+-Music
+-Ph_2_Stars
+-" You Always Get Me Right...
+-Justice
+-New Bergen Wave
+-Offizielle Charts
+-1-4 Wochen
+-Brasilianische Musik
+-Anime
+-Remix
+-United States
+-Politically Charged
+-British
+-Beats
+-Musical
+-Stage And Screen
+-Easy Listening
+-Acoustic
+-Actors
+-Big Room
+-Billboard Hot 100
+-Billboard Hot 100 2025
+-Black
+-Hands Up
+-Alternative Music
+-Queer
+-Los Angeles
+-Rapping
+-Utah
+-Symphony Orchestra
+-Chill
+-Top40
+-First-Person Shooter
+-Bass Music
+-Other Pop
+-Unplugged
+-Drag Queen
+-Touhou
+-Edm
+-R B
+-Donk
+-Frat Rap
+-Provo
+-Alt. Rock
+-Youtuber
+-Dancefloor Drum And Bass
+-French
+-Alliteration
+-Independent
+-Butterfly On Cover
+-Concerto
+-Troy Roberts
+-Hidden Track
+-Ballet
+-Sunny Sunshine [00:53.05] We Stil...
+-Troi Irons
+-Animal On Cover
+-Boombap
+-Adult Contemporary Music
+-Romance
+-Composer
+-Matthew Edward Hall
+-Car On Cover
+-Lithuanian
+-Filmschauspieler
+-Game Company
+-Electronic Superhighway
+-Chaconne
+-[] []
+-Meme
+-Meme Rap
+-Club
+-Usa
+-Nsbm
+-Funk Ousadia
+-Funk Carioca
+-Fantasia
+-Halftime
+-Impressionism
+-Impromptu
+-Indie Brasileiro
+-Jam Band Music
+-Patriotic Metal
+-Protest Song
+-Rapper
+-Skull On Cover
+-Stutter House
+-Wonky
+-Wave
+-Trap Br
+-Concept Album
+-Concert Waltz
+-Diss
+-Down
+-同人
+-同人サークル
+-東方Project
+-Japan
+-Dallas
+-Shred
+-Polish
+-Score
+-Brazilian Phonk
+-Anime Rap
+-Vgm
+-Sertanejo Romântico
+-France
+-Video Game Music
+-Video Game
+-Rnb
+-Post-Genre
+-Updated Release
+-Long Title
+-Character
+-Anime Song
+-Vocaloid
+-Artist On Cover
+-Keyboard
+-Chamber Music
+-Chicago Bop
+-Fun
+-Dirty Rap
+-Dirty South
+-Oi
+-Alt Z
+-Alt-Pop
+-Alt-Rock
+-Future Riddim
+-Jungle Terror
